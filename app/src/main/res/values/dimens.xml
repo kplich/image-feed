@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="app_default_big_font_size">36sp</dimen>
+    <dimen name="app_default_medium_font_size">24sp</dimen>
+    <dimen name="app_default_small_font_size">14sp</dimen>
+
+    <dimen name="app_default_margin">8dp</dimen>
+    <dimen name="app_default_left_right_margin">8dp</dimen>
+    <dimen name="app_default_top_margin">8dp</dimen>
+    <dimen name="app_default_bottom_margin">8dp</dimen>
+
+    <dimen name="single_elem_guideline_percent">0.6</dimen>
+    <dimen name="single_elem_margin_bottom">16dp</dimen>
+    <dimen name="single_elem_padding_top_bottom">4dp</dimen>
+
+    <dimen name="add_image_bottom_margin">16dp</dimen>
+</resources>
